@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
-import './LoginSingnup.css'; // Supondo que seu arquivo CSS se chama LoginSingnup.css
-
+import '../css/LoginSingnup.css'; 
 import user_Icon from '../assets/user.png';
 import email_Icon from '../assets/email.png';
 import lock_Icon from '../assets/lock.png';
